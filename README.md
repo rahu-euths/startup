@@ -1,0 +1,2 @@
+# startup
+first bash script
